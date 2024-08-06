@@ -1,0 +1,548 @@
+Product Type,total_sales_first,total_sales_last,Product Category,Store Location,Transaction Hour
+Barista Espresso,28312.75,10914.75,Coffee,Lower Manhattan,7
+Barista Espresso,28312.75,10914.75,Coffee,Hell's Kitchen,8
+Barista Espresso,28312.75,10914.75,Coffee,Hell's Kitchen,9
+Barista Espresso,28312.75,10914.75,Coffee,Lower Manhattan,9
+Barista Espresso,28312.75,10914.75,Coffee,Hell's Kitchen,10
+Barista Espresso,28312.75,10914.75,Coffee,Lower Manhattan,10
+Barista Espresso,28312.75,10914.75,Coffee,Astoria,11
+Barista Espresso,28312.75,10914.75,Coffee,Hell's Kitchen,11
+Barista Espresso,28312.75,10914.75,Coffee,Lower Manhattan,11
+Barista Espresso,28312.75,10914.75,Coffee,Lower Manhattan,12
+Barista Espresso,28312.75,10914.75,Coffee,Hell's Kitchen,12
+Barista Espresso,28312.75,10914.75,Coffee,Astoria,12
+Barista Espresso,28312.75,10914.75,Coffee,Astoria,13
+Barista Espresso,28312.75,10914.75,Coffee,Lower Manhattan,13
+Barista Espresso,28312.75,10914.75,Coffee,Hell's Kitchen,13
+Barista Espresso,28312.75,10914.75,Coffee,Astoria,14
+Barista Espresso,28312.75,10914.75,Coffee,Lower Manhattan,14
+Barista Espresso,28312.75,10914.75,Coffee,Hell's Kitchen,14
+Barista Espresso,28312.75,10914.75,Coffee,Astoria,15
+Barista Espresso,28312.75,10914.75,Coffee,Hell's Kitchen,15
+Barista Espresso,28312.75,10914.75,Coffee,Lower Manhattan,15
+Barista Espresso,28312.75,10914.75,Coffee,Hell's Kitchen,16
+Barista Espresso,28312.75,10914.75,Coffee,Lower Manhattan,16
+Barista Espresso,28312.75,10914.75,Coffee,Astoria,16
+Barista Espresso,28312.75,10914.75,Coffee,Hell's Kitchen,17
+Barista Espresso,28312.75,10914.75,Coffee,Astoria,17
+Barista Espresso,28312.75,10914.75,Coffee,Lower Manhattan,17
+Barista Espresso,28312.75,10914.75,Coffee,Lower Manhattan,18
+Barista Espresso,28312.75,10914.75,Coffee,Astoria,18
+Barista Espresso,28312.75,10914.75,Coffee,Hell's Kitchen,18
+Barista Espresso,28312.75,10914.75,Coffee,Hell's Kitchen,19
+Barista Espresso,28312.75,10914.75,Coffee,Astoria,19
+Barista Espresso,28312.75,10914.75,Coffee,Lower Manhattan,8
+Barista Espresso,28312.75,10914.75,Coffee,Lower Manhattan,6
+Barista Espresso,28312.75,10914.75,Coffee,Astoria,7
+Barista Espresso,28312.75,10914.75,Coffee,Astoria,8
+Barista Espresso,28312.75,10914.75,Coffee,Astoria,10
+Barista Espresso,28312.75,10914.75,Coffee,Hell's Kitchen,20
+Barista Espresso,28312.75,10914.75,Coffee,Hell's Kitchen,7
+Barista Espresso,28312.75,10914.75,Coffee,Lower Manhattan,19
+Barista Espresso,28312.75,10914.75,Coffee,Astoria,9
+Barista Espresso,28312.75,10914.75,Coffee,Hell's Kitchen,6
+Biscotti,1102.5,1504.23,Bakery,Lower Manhattan,8
+Biscotti,1102.5,1504.23,Bakery,Hell's Kitchen,9
+Biscotti,1102.5,1504.23,Bakery,Lower Manhattan,9
+Biscotti,1102.5,1504.23,Bakery,Lower Manhattan,10
+Biscotti,1102.5,1504.23,Bakery,Astoria,13
+Biscotti,1102.5,1504.23,Bakery,Lower Manhattan,14
+Biscotti,1102.5,1504.23,Bakery,Lower Manhattan,15
+Biscotti,1102.5,1504.23,Bakery,Astoria,15
+Biscotti,1102.5,1504.23,Bakery,Astoria,16
+Biscotti,1102.5,1504.23,Bakery,Hell's Kitchen,17
+Biscotti,1102.5,1504.23,Bakery,Astoria,17
+Biscotti,1102.5,1504.23,Bakery,Lower Manhattan,18
+Biscotti,1102.5,1504.23,Bakery,Hell's Kitchen,8
+Biscotti,1102.5,1504.23,Bakery,Hell's Kitchen,10
+Biscotti,1102.5,1504.23,Bakery,Astoria,11
+Biscotti,1102.5,1504.23,Bakery,Lower Manhattan,11
+Biscotti,1102.5,1504.23,Bakery,Lower Manhattan,12
+Biscotti,1102.5,1504.23,Bakery,Hell's Kitchen,13
+Biscotti,1102.5,1504.23,Bakery,Hell's Kitchen,15
+Biscotti,1102.5,1504.23,Bakery,Lower Manhattan,17
+Biscotti,1102.5,1504.23,Bakery,Astoria,18
+Biscotti,1102.5,1504.23,Bakery,Hell's Kitchen,19
+Biscotti,1102.5,1504.23,Bakery,Astoria,19
+Biscotti,1102.5,1504.23,Bakery,Hell's Kitchen,11
+Biscotti,1102.5,1504.23,Bakery,Hell's Kitchen,12
+Biscotti,1102.5,1504.23,Bakery,Lower Manhattan,13
+Biscotti,1102.5,1504.23,Bakery,Hell's Kitchen,14
+Biscotti,1102.5,1504.23,Bakery,Astoria,14
+Biscotti,1102.5,1504.23,Bakery,Hell's Kitchen,16
+Biscotti,1102.5,1504.23,Bakery,Astoria,12
+Biscotti,1102.5,1504.23,Bakery,Hell's Kitchen,18
+Biscotti,1102.5,1504.23,Bakery,Lower Manhattan,7
+Biscotti,1102.5,1504.23,Bakery,Lower Manhattan,16
+Biscotti,1102.5,1504.23,Bakery,Astoria,7
+Biscotti,1102.5,1504.23,Bakery,Astoria,8
+Biscotti,1102.5,1504.23,Bakery,Astoria,10
+Biscotti,1102.5,1504.23,Bakery,Lower Manhattan,19
+Biscotti,1102.5,1504.23,Bakery,Hell's Kitchen,6
+Biscotti,1102.5,1504.23,Bakery,Hell's Kitchen,7
+Biscotti,1102.5,1504.23,Bakery,Astoria,9
+Biscotti,1102.5,1504.23,Bakery,Lower Manhattan,6
+Brewed Black tea,6150.0,6262.0,Tea,Lower Manhattan,7
+Brewed Black tea,6150.0,6262.0,Tea,Lower Manhattan,9
+Brewed Black tea,6150.0,6262.0,Tea,Hell's Kitchen,10
+Brewed Black tea,6150.0,6262.0,Tea,Hell's Kitchen,11
+Brewed Black tea,6150.0,6262.0,Tea,Lower Manhattan,11
+Brewed Black tea,6150.0,6262.0,Tea,Astoria,11
+Brewed Black tea,6150.0,6262.0,Tea,Astoria,12
+Brewed Black tea,6150.0,6262.0,Tea,Hell's Kitchen,12
+Brewed Black tea,6150.0,6262.0,Tea,Hell's Kitchen,13
+Brewed Black tea,6150.0,6262.0,Tea,Lower Manhattan,13
+Brewed Black tea,6150.0,6262.0,Tea,Hell's Kitchen,14
+Brewed Black tea,6150.0,6262.0,Tea,Lower Manhattan,14
+Brewed Black tea,6150.0,6262.0,Tea,Astoria,14
+Brewed Black tea,6150.0,6262.0,Tea,Lower Manhattan,15
+Brewed Black tea,6150.0,6262.0,Tea,Hell's Kitchen,15
+Brewed Black tea,6150.0,6262.0,Tea,Hell's Kitchen,16
+Brewed Black tea,6150.0,6262.0,Tea,Lower Manhattan,16
+Brewed Black tea,6150.0,6262.0,Tea,Hell's Kitchen,17
+Brewed Black tea,6150.0,6262.0,Tea,Astoria,17
+Brewed Black tea,6150.0,6262.0,Tea,Lower Manhattan,17
+Brewed Black tea,6150.0,6262.0,Tea,Lower Manhattan,18
+Brewed Black tea,6150.0,6262.0,Tea,Hell's Kitchen,18
+Brewed Black tea,6150.0,6262.0,Tea,Hell's Kitchen,19
+Brewed Black tea,6150.0,6262.0,Tea,Astoria,19
+Brewed Black tea,6150.0,6262.0,Tea,Lower Manhattan,8
+Brewed Black tea,6150.0,6262.0,Tea,Hell's Kitchen,8
+Brewed Black tea,6150.0,6262.0,Tea,Hell's Kitchen,9
+Brewed Black tea,6150.0,6262.0,Tea,Lower Manhattan,10
+Brewed Black tea,6150.0,6262.0,Tea,Astoria,15
+Brewed Black tea,6150.0,6262.0,Tea,Astoria,16
+Brewed Black tea,6150.0,6262.0,Tea,Astoria,18
+Brewed Black tea,6150.0,6262.0,Tea,Lower Manhattan,12
+Brewed Black tea,6150.0,6262.0,Tea,Astoria,13
+Brewed Black tea,6150.0,6262.0,Tea,Astoria,7
+Brewed Black tea,6150.0,6262.0,Tea,Astoria,8
+Brewed Black tea,6150.0,6262.0,Tea,Astoria,10
+Brewed Black tea,6150.0,6262.0,Tea,Hell's Kitchen,6
+Brewed Black tea,6150.0,6262.0,Tea,Hell's Kitchen,7
+Brewed Black tea,6150.0,6262.0,Tea,Astoria,9
+Brewed Black tea,6150.0,6262.0,Tea,Lower Manhattan,20
+Brewed Black tea,6150.0,6262.0,Tea,Lower Manhattan,6
+Brewed Black tea,6150.0,6262.0,Tea,Hell's Kitchen,20
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Lower Manhattan,7
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Lower Manhattan,8
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Hell's Kitchen,8
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Lower Manhattan,9
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Hell's Kitchen,9
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Hell's Kitchen,10
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Hell's Kitchen,11
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Lower Manhattan,11
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Astoria,11
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Astoria,12
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Hell's Kitchen,12
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Lower Manhattan,12
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Hell's Kitchen,13
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Astoria,13
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Lower Manhattan,13
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Lower Manhattan,14
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Hell's Kitchen,14
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Astoria,14
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Astoria,15
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Astoria,16
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Lower Manhattan,16
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Hell's Kitchen,16
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Hell's Kitchen,17
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Astoria,17
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Astoria,18
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Hell's Kitchen,18
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Lower Manhattan,18
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Astoria,19
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Hell's Kitchen,19
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Lower Manhattan,10
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Hell's Kitchen,15
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Lower Manhattan,15
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Lower Manhattan,17
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Astoria,7
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Astoria,8
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Astoria,10
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Hell's Kitchen,20
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Hell's Kitchen,7
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Astoria,9
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Lower Manhattan,20
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Hell's Kitchen,6
+Brewed Chai tea,26208.600000000002,11669.800000000001,Tea,Lower Manhattan,6
+Brewed Green tea,2415.0,1783.5,Tea,Lower Manhattan,7
+Brewed Green tea,2415.0,1783.5,Tea,Hell's Kitchen,9
+Brewed Green tea,2415.0,1783.5,Tea,Lower Manhattan,9
+Brewed Green tea,2415.0,1783.5,Tea,Hell's Kitchen,10
+Brewed Green tea,2415.0,1783.5,Tea,Lower Manhattan,10
+Brewed Green tea,2415.0,1783.5,Tea,Lower Manhattan,11
+Brewed Green tea,2415.0,1783.5,Tea,Astoria,11
+Brewed Green tea,2415.0,1783.5,Tea,Hell's Kitchen,12
+Brewed Green tea,2415.0,1783.5,Tea,Lower Manhattan,12
+Brewed Green tea,2415.0,1783.5,Tea,Astoria,12
+Brewed Green tea,2415.0,1783.5,Tea,Astoria,13
+Brewed Green tea,2415.0,1783.5,Tea,Astoria,14
+Brewed Green tea,2415.0,1783.5,Tea,Astoria,15
+Brewed Green tea,2415.0,1783.5,Tea,Hell's Kitchen,16
+Brewed Green tea,2415.0,1783.5,Tea,Lower Manhattan,16
+Brewed Green tea,2415.0,1783.5,Tea,Hell's Kitchen,17
+Brewed Green tea,2415.0,1783.5,Tea,Astoria,17
+Brewed Green tea,2415.0,1783.5,Tea,Astoria,18
+Brewed Green tea,2415.0,1783.5,Tea,Hell's Kitchen,19
+Brewed Green tea,2415.0,1783.5,Tea,Astoria,19
+Brewed Green tea,2415.0,1783.5,Tea,Hell's Kitchen,11
+Brewed Green tea,2415.0,1783.5,Tea,Hell's Kitchen,13
+Brewed Green tea,2415.0,1783.5,Tea,Hell's Kitchen,14
+Brewed Green tea,2415.0,1783.5,Tea,Lower Manhattan,14
+Brewed Green tea,2415.0,1783.5,Tea,Hell's Kitchen,15
+Brewed Green tea,2415.0,1783.5,Tea,Lower Manhattan,15
+Brewed Green tea,2415.0,1783.5,Tea,Astoria,16
+Brewed Green tea,2415.0,1783.5,Tea,Hell's Kitchen,8
+Brewed Green tea,2415.0,1783.5,Tea,Hell's Kitchen,18
+Brewed Green tea,2415.0,1783.5,Tea,Lower Manhattan,13
+Brewed Green tea,2415.0,1783.5,Tea,Lower Manhattan,17
+Brewed Green tea,2415.0,1783.5,Tea,Lower Manhattan,8
+Brewed Green tea,2415.0,1783.5,Tea,Astoria,8
+Brewed Green tea,2415.0,1783.5,Tea,Astoria,10
+Brewed Green tea,2415.0,1783.5,Tea,Astoria,7
+Brewed Green tea,2415.0,1783.5,Tea,Hell's Kitchen,7
+Brewed Green tea,2415.0,1783.5,Tea,Lower Manhattan,19
+Brewed Green tea,2415.0,1783.5,Tea,Lower Manhattan,20
+Brewed Green tea,2415.0,1783.5,Tea,Hell's Kitchen,6
+Brewed Green tea,2415.0,1783.5,Tea,Astoria,9
+Brewed Green tea,2415.0,1783.5,Tea,Lower Manhattan,6
+Brewed Green tea,2415.0,1783.5,Tea,Lower Manhattan,18
+Brewed Green tea,2415.0,1783.5,Tea,Hell's Kitchen,20
+Brewed herbal tea,10857.0,2613.0,Tea,Hell's Kitchen,8
+Brewed herbal tea,10857.0,2613.0,Tea,Lower Manhattan,8
+Brewed herbal tea,10857.0,2613.0,Tea,Hell's Kitchen,9
+Brewed herbal tea,10857.0,2613.0,Tea,Lower Manhattan,9
+Brewed herbal tea,10857.0,2613.0,Tea,Astoria,11
+Brewed herbal tea,10857.0,2613.0,Tea,Hell's Kitchen,11
+Brewed herbal tea,10857.0,2613.0,Tea,Lower Manhattan,11
+Brewed herbal tea,10857.0,2613.0,Tea,Astoria,12
+Brewed herbal tea,10857.0,2613.0,Tea,Lower Manhattan,12
+Brewed herbal tea,10857.0,2613.0,Tea,Hell's Kitchen,12
+Brewed herbal tea,10857.0,2613.0,Tea,Astoria,13
+Brewed herbal tea,10857.0,2613.0,Tea,Hell's Kitchen,13
+Brewed herbal tea,10857.0,2613.0,Tea,Lower Manhattan,13
+Brewed herbal tea,10857.0,2613.0,Tea,Astoria,14
+Brewed herbal tea,10857.0,2613.0,Tea,Lower Manhattan,14
+Brewed herbal tea,10857.0,2613.0,Tea,Astoria,15
+Brewed herbal tea,10857.0,2613.0,Tea,Lower Manhattan,15
+Brewed herbal tea,10857.0,2613.0,Tea,Hell's Kitchen,15
+Brewed herbal tea,10857.0,2613.0,Tea,Astoria,16
+Brewed herbal tea,10857.0,2613.0,Tea,Lower Manhattan,16
+Brewed herbal tea,10857.0,2613.0,Tea,Hell's Kitchen,16
+Brewed herbal tea,10857.0,2613.0,Tea,Hell's Kitchen,17
+Brewed herbal tea,10857.0,2613.0,Tea,Lower Manhattan,17
+Brewed herbal tea,10857.0,2613.0,Tea,Hell's Kitchen,18
+Brewed herbal tea,10857.0,2613.0,Tea,Astoria,19
+Brewed herbal tea,10857.0,2613.0,Tea,Hell's Kitchen,19
+Brewed herbal tea,10857.0,2613.0,Tea,Lower Manhattan,7
+Brewed herbal tea,10857.0,2613.0,Tea,Hell's Kitchen,10
+Brewed herbal tea,10857.0,2613.0,Tea,Astoria,17
+Brewed herbal tea,10857.0,2613.0,Tea,Astoria,18
+Brewed herbal tea,10857.0,2613.0,Tea,Lower Manhattan,10
+Brewed herbal tea,10857.0,2613.0,Tea,Hell's Kitchen,14
+Brewed herbal tea,10857.0,2613.0,Tea,Astoria,10
+Brewed herbal tea,10857.0,2613.0,Tea,Hell's Kitchen,20
+Brewed herbal tea,10857.0,2613.0,Tea,Astoria,9
+Brewed herbal tea,10857.0,2613.0,Tea,Lower Manhattan,18
+Brewed herbal tea,10857.0,2613.0,Tea,Lower Manhattan,20
+Brewed herbal tea,10857.0,2613.0,Tea,Hell's Kitchen,6
+Brewed herbal tea,10857.0,2613.0,Tea,Astoria,8
+Brewed herbal tea,10857.0,2613.0,Tea,Lower Manhattan,19
+Brewed herbal tea,10857.0,2613.0,Tea,Lower Manhattan,6
+Brewed herbal tea,10857.0,2613.0,Tea,Hell's Kitchen,7
+Brewed herbal tea,10857.0,2613.0,Tea,Astoria,7
+Drip coffee,5589.0,1464.5,Coffee,Lower Manhattan,7
+Drip coffee,5589.0,1464.5,Coffee,Hell's Kitchen,9
+Drip coffee,5589.0,1464.5,Coffee,Lower Manhattan,9
+Drip coffee,5589.0,1464.5,Coffee,Lower Manhattan,10
+Drip coffee,5589.0,1464.5,Coffee,Hell's Kitchen,10
+Drip coffee,5589.0,1464.5,Coffee,Astoria,11
+Drip coffee,5589.0,1464.5,Coffee,Hell's Kitchen,11
+Drip coffee,5589.0,1464.5,Coffee,Hell's Kitchen,12
+Drip coffee,5589.0,1464.5,Coffee,Astoria,12
+Drip coffee,5589.0,1464.5,Coffee,Astoria,13
+Drip coffee,5589.0,1464.5,Coffee,Lower Manhattan,13
+Drip coffee,5589.0,1464.5,Coffee,Hell's Kitchen,13
+Drip coffee,5589.0,1464.5,Coffee,Astoria,14
+Drip coffee,5589.0,1464.5,Coffee,Hell's Kitchen,14
+Drip coffee,5589.0,1464.5,Coffee,Lower Manhattan,14
+Drip coffee,5589.0,1464.5,Coffee,Astoria,15
+Drip coffee,5589.0,1464.5,Coffee,Hell's Kitchen,15
+Drip coffee,5589.0,1464.5,Coffee,Astoria,16
+Drip coffee,5589.0,1464.5,Coffee,Lower Manhattan,16
+Drip coffee,5589.0,1464.5,Coffee,Hell's Kitchen,18
+Drip coffee,5589.0,1464.5,Coffee,Lower Manhattan,18
+Drip coffee,5589.0,1464.5,Coffee,Astoria,18
+Drip coffee,5589.0,1464.5,Coffee,Hell's Kitchen,19
+Drip coffee,5589.0,1464.5,Coffee,Lower Manhattan,12
+Drip coffee,5589.0,1464.5,Coffee,Astoria,17
+Drip coffee,5589.0,1464.5,Coffee,Astoria,19
+Drip coffee,5589.0,1464.5,Coffee,Hell's Kitchen,8
+Drip coffee,5589.0,1464.5,Coffee,Lower Manhattan,11
+Drip coffee,5589.0,1464.5,Coffee,Lower Manhattan,15
+Drip coffee,5589.0,1464.5,Coffee,Hell's Kitchen,16
+Drip coffee,5589.0,1464.5,Coffee,Hell's Kitchen,17
+Drip coffee,5589.0,1464.5,Coffee,Lower Manhattan,8
+Drip coffee,5589.0,1464.5,Coffee,Lower Manhattan,17
+Drip coffee,5589.0,1464.5,Coffee,Astoria,7
+Drip coffee,5589.0,1464.5,Coffee,Astoria,8
+Drip coffee,5589.0,1464.5,Coffee,Astoria,9
+Drip coffee,5589.0,1464.5,Coffee,Astoria,10
+Drip coffee,5589.0,1464.5,Coffee,Hell's Kitchen,20
+Drip coffee,5589.0,1464.5,Coffee,Hell's Kitchen,7
+Drip coffee,5589.0,1464.5,Coffee,Lower Manhattan,20
+Drip coffee,5589.0,1464.5,Coffee,Lower Manhattan,6
+Drip coffee,5589.0,1464.5,Coffee,Hell's Kitchen,6
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Lower Manhattan,7
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Hell's Kitchen,8
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Lower Manhattan,8
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Hell's Kitchen,9
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Hell's Kitchen,10
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Lower Manhattan,10
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Hell's Kitchen,11
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Astoria,11
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Lower Manhattan,12
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Astoria,12
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Hell's Kitchen,12
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Lower Manhattan,13
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Hell's Kitchen,13
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Astoria,13
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Astoria,14
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Hell's Kitchen,14
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Astoria,15
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Hell's Kitchen,15
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Lower Manhattan,15
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Astoria,16
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Hell's Kitchen,16
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Lower Manhattan,16
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Lower Manhattan,17
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Hell's Kitchen,17
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Astoria,17
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Astoria,18
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Astoria,19
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Hell's Kitchen,19
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Lower Manhattan,9
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Lower Manhattan,14
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Hell's Kitchen,18
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Lower Manhattan,18
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Lower Manhattan,11
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Astoria,7
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Astoria,8
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Astoria,9
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Hell's Kitchen,6
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Hell's Kitchen,7
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Astoria,10
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Lower Manhattan,20
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Lower Manhattan,6
+Gourmet brewed coffee,13809.199999999999,12057.199999999999,Coffee,Hell's Kitchen,20
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Lower Manhattan,7
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Hell's Kitchen,8
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Lower Manhattan,9
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Hell's Kitchen,9
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Lower Manhattan,10
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Hell's Kitchen,10
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Astoria,11
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Lower Manhattan,11
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Astoria,12
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Hell's Kitchen,12
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Lower Manhattan,12
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Astoria,13
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Lower Manhattan,13
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Hell's Kitchen,14
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Astoria,14
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Lower Manhattan,14
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Hell's Kitchen,15
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Astoria,15
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Hell's Kitchen,16
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Astoria,16
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Astoria,17
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Hell's Kitchen,17
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Astoria,18
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Astoria,19
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Hell's Kitchen,19
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Lower Manhattan,8
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Hell's Kitchen,11
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Hell's Kitchen,13
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Lower Manhattan,15
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Lower Manhattan,16
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Lower Manhattan,18
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Hell's Kitchen,18
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Lower Manhattan,17
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Lower Manhattan,6
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Astoria,7
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Astoria,8
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Astoria,9
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Hell's Kitchen,20
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Hell's Kitchen,6
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Hell's Kitchen,7
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Lower Manhattan,19
+Hot chocolate,14928.5,4348.5,Drinking Chocolate,Astoria,10
+Organic brewed coffee,5608.8,5605.0,Coffee,Lower Manhattan,8
+Organic brewed coffee,5608.8,5605.0,Coffee,Lower Manhattan,9
+Organic brewed coffee,5608.8,5605.0,Coffee,Lower Manhattan,10
+Organic brewed coffee,5608.8,5605.0,Coffee,Astoria,11
+Organic brewed coffee,5608.8,5605.0,Coffee,Hell's Kitchen,12
+Organic brewed coffee,5608.8,5605.0,Coffee,Lower Manhattan,12
+Organic brewed coffee,5608.8,5605.0,Coffee,Lower Manhattan,13
+Organic brewed coffee,5608.8,5605.0,Coffee,Hell's Kitchen,13
+Organic brewed coffee,5608.8,5605.0,Coffee,Lower Manhattan,14
+Organic brewed coffee,5608.8,5605.0,Coffee,Lower Manhattan,15
+Organic brewed coffee,5608.8,5605.0,Coffee,Astoria,15
+Organic brewed coffee,5608.8,5605.0,Coffee,Hell's Kitchen,15
+Organic brewed coffee,5608.8,5605.0,Coffee,Astoria,16
+Organic brewed coffee,5608.8,5605.0,Coffee,Astoria,17
+Organic brewed coffee,5608.8,5605.0,Coffee,Hell's Kitchen,17
+Organic brewed coffee,5608.8,5605.0,Coffee,Astoria,18
+Organic brewed coffee,5608.8,5605.0,Coffee,Hell's Kitchen,18
+Organic brewed coffee,5608.8,5605.0,Coffee,Hell's Kitchen,19
+Organic brewed coffee,5608.8,5605.0,Coffee,Astoria,19
+Organic brewed coffee,5608.8,5605.0,Coffee,Lower Manhattan,7
+Organic brewed coffee,5608.8,5605.0,Coffee,Hell's Kitchen,8
+Organic brewed coffee,5608.8,5605.0,Coffee,Hell's Kitchen,9
+Organic brewed coffee,5608.8,5605.0,Coffee,Lower Manhattan,11
+Organic brewed coffee,5608.8,5605.0,Coffee,Astoria,12
+Organic brewed coffee,5608.8,5605.0,Coffee,Astoria,13
+Organic brewed coffee,5608.8,5605.0,Coffee,Hell's Kitchen,14
+Organic brewed coffee,5608.8,5605.0,Coffee,Hell's Kitchen,16
+Organic brewed coffee,5608.8,5605.0,Coffee,Lower Manhattan,16
+Organic brewed coffee,5608.8,5605.0,Coffee,Lower Manhattan,17
+Organic brewed coffee,5608.8,5605.0,Coffee,Hell's Kitchen,10
+Organic brewed coffee,5608.8,5605.0,Coffee,Astoria,14
+Organic brewed coffee,5608.8,5605.0,Coffee,Hell's Kitchen,11
+Organic brewed coffee,5608.8,5605.0,Coffee,Lower Manhattan,18
+Organic brewed coffee,5608.8,5605.0,Coffee,Astoria,8
+Organic brewed coffee,5608.8,5605.0,Coffee,Astoria,10
+Organic brewed coffee,5608.8,5605.0,Coffee,Hell's Kitchen,7
+Organic brewed coffee,5608.8,5605.0,Coffee,Astoria,9
+Organic brewed coffee,5608.8,5605.0,Coffee,Hell's Kitchen,6
+Organic brewed coffee,5608.8,5605.0,Coffee,Astoria,7
+Organic brewed coffee,5608.8,5605.0,Coffee,Lower Manhattan,6
+Organic brewed coffee,5608.8,5605.0,Coffee,Hell's Kitchen,20
+Organic brewed coffee,5608.8,5605.0,Coffee,Lower Manhattan,20
+Pastry,1749.0,944.0,Bakery,Lower Manhattan,8
+Pastry,1749.0,944.0,Bakery,Lower Manhattan,10
+Pastry,1749.0,944.0,Bakery,Hell's Kitchen,10
+Pastry,1749.0,944.0,Bakery,Astoria,11
+Pastry,1749.0,944.0,Bakery,Lower Manhattan,11
+Pastry,1749.0,944.0,Bakery,Astoria,12
+Pastry,1749.0,944.0,Bakery,Lower Manhattan,12
+Pastry,1749.0,944.0,Bakery,Hell's Kitchen,13
+Pastry,1749.0,944.0,Bakery,Lower Manhattan,13
+Pastry,1749.0,944.0,Bakery,Hell's Kitchen,14
+Pastry,1749.0,944.0,Bakery,Lower Manhattan,15
+Pastry,1749.0,944.0,Bakery,Lower Manhattan,16
+Pastry,1749.0,944.0,Bakery,Lower Manhattan,17
+Pastry,1749.0,944.0,Bakery,Astoria,17
+Pastry,1749.0,944.0,Bakery,Hell's Kitchen,18
+Pastry,1749.0,944.0,Bakery,Lower Manhattan,7
+Pastry,1749.0,944.0,Bakery,Lower Manhattan,9
+Pastry,1749.0,944.0,Bakery,Hell's Kitchen,11
+Pastry,1749.0,944.0,Bakery,Lower Manhattan,14
+Pastry,1749.0,944.0,Bakery,Astoria,14
+Pastry,1749.0,944.0,Bakery,Astoria,15
+Pastry,1749.0,944.0,Bakery,Astoria,16
+Pastry,1749.0,944.0,Bakery,Hell's Kitchen,17
+Pastry,1749.0,944.0,Bakery,Lower Manhattan,18
+Pastry,1749.0,944.0,Bakery,Astoria,18
+Pastry,1749.0,944.0,Bakery,Astoria,19
+Pastry,1749.0,944.0,Bakery,Hell's Kitchen,19
+Pastry,1749.0,944.0,Bakery,Hell's Kitchen,9
+Pastry,1749.0,944.0,Bakery,Astoria,13
+Pastry,1749.0,944.0,Bakery,Hell's Kitchen,16
+Pastry,1749.0,944.0,Bakery,Hell's Kitchen,15
+Pastry,1749.0,944.0,Bakery,Hell's Kitchen,8
+Pastry,1749.0,944.0,Bakery,Hell's Kitchen,12
+Pastry,1749.0,944.0,Bakery,Astoria,7
+Pastry,1749.0,944.0,Bakery,Astoria,8
+Pastry,1749.0,944.0,Bakery,Hell's Kitchen,20
+Pastry,1749.0,944.0,Bakery,Astoria,9
+Pastry,1749.0,944.0,Bakery,Hell's Kitchen,7
+Pastry,1749.0,944.0,Bakery,Astoria,10
+Pastry,1749.0,944.0,Bakery,Lower Manhattan,6
+Pastry,1749.0,944.0,Bakery,Hell's Kitchen,6
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Lower Manhattan,9
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Hell's Kitchen,9
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Hell's Kitchen,10
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Lower Manhattan,10
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Hell's Kitchen,11
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Astoria,11
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Astoria,12
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Hell's Kitchen,12
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Astoria,13
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Lower Manhattan,13
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Astoria,14
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Hell's Kitchen,14
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Lower Manhattan,15
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Astoria,15
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Hell's Kitchen,15
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Astoria,16
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Lower Manhattan,17
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Astoria,17
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Hell's Kitchen,17
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Astoria,18
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Hell's Kitchen,18
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Astoria,19
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Hell's Kitchen,8
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Hell's Kitchen,13
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Lower Manhattan,16
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Hell's Kitchen,16
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Lower Manhattan,18
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Hell's Kitchen,19
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Lower Manhattan,11
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Lower Manhattan,12
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Lower Manhattan,14
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Lower Manhattan,7
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Lower Manhattan,8
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Lower Manhattan,6
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Astoria,7
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Astoria,8
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Hell's Kitchen,20
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Hell's Kitchen,7
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Astoria,9
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Lower Manhattan,20
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Hell's Kitchen,6
+Premium brewed coffee,8293.95,2755.3500000000004,Coffee,Astoria,10
+Scone,2821.0,5879.400000000001,Bakery,Lower Manhattan,7
+Scone,2821.0,5879.400000000001,Bakery,Lower Manhattan,9
+Scone,2821.0,5879.400000000001,Bakery,Hell's Kitchen,9
+Scone,2821.0,5879.400000000001,Bakery,Lower Manhattan,10
+Scone,2821.0,5879.400000000001,Bakery,Astoria,11
+Scone,2821.0,5879.400000000001,Bakery,Lower Manhattan,11
+Scone,2821.0,5879.400000000001,Bakery,Hell's Kitchen,11
+Scone,2821.0,5879.400000000001,Bakery,Lower Manhattan,12
+Scone,2821.0,5879.400000000001,Bakery,Hell's Kitchen,13
+Scone,2821.0,5879.400000000001,Bakery,Lower Manhattan,13
+Scone,2821.0,5879.400000000001,Bakery,Astoria,14
+Scone,2821.0,5879.400000000001,Bakery,Lower Manhattan,14
+Scone,2821.0,5879.400000000001,Bakery,Astoria,15
+Scone,2821.0,5879.400000000001,Bakery,Lower Manhattan,16
+Scone,2821.0,5879.400000000001,Bakery,Hell's Kitchen,17
+Scone,2821.0,5879.400000000001,Bakery,Lower Manhattan,17
+Scone,2821.0,5879.400000000001,Bakery,Astoria,18
+Scone,2821.0,5879.400000000001,Bakery,Hell's Kitchen,19
+Scone,2821.0,5879.400000000001,Bakery,Astoria,12
+Scone,2821.0,5879.400000000001,Bakery,Astoria,13
+Scone,2821.0,5879.400000000001,Bakery,Lower Manhattan,15
+Scone,2821.0,5879.400000000001,Bakery,Astoria,16
+Scone,2821.0,5879.400000000001,Bakery,Astoria,17
+Scone,2821.0,5879.400000000001,Bakery,Hell's Kitchen,18
+Scone,2821.0,5879.400000000001,Bakery,Astoria,19
+Scone,2821.0,5879.400000000001,Bakery,Lower Manhattan,8
+Scone,2821.0,5879.400000000001,Bakery,Hell's Kitchen,8
+Scone,2821.0,5879.400000000001,Bakery,Hell's Kitchen,14
+Scone,2821.0,5879.400000000001,Bakery,Hell's Kitchen,15
+Scone,2821.0,5879.400000000001,Bakery,Hell's Kitchen,16
+Scone,2821.0,5879.400000000001,Bakery,Hell's Kitchen,12
+Scone,2821.0,5879.400000000001,Bakery,Hell's Kitchen,10
+Scone,2821.0,5879.400000000001,Bakery,Astoria,8
+Scone,2821.0,5879.400000000001,Bakery,Astoria,10
+Scone,2821.0,5879.400000000001,Bakery,Hell's Kitchen,7
+Scone,2821.0,5879.400000000001,Bakery,Astoria,9
+Scone,2821.0,5879.400000000001,Bakery,Lower Manhattan,20
+Scone,2821.0,5879.400000000001,Bakery,Hell's Kitchen,6
+Scone,2821.0,5879.400000000001,Bakery,Astoria,7
+Scone,2821.0,5879.400000000001,Bakery,Lower Manhattan,18
+Scone,2821.0,5879.400000000001,Bakery,Lower Manhattan,19
+Scone,2821.0,5879.400000000001,Bakery,Lower Manhattan,6
+Scone,2821.0,5879.400000000001,Bakery,Hell's Kitchen,20
